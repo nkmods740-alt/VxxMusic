@@ -1,4 +1,4 @@
-herename: Unzip Vxx Music
+herename: Unzip VxxMusic
 
 on:
   workflow_dispatch:
