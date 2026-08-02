@@ -1,6 +1,0 @@
-{
-  "name": "Vxx Music",
-  "description": "Premium, stylish, and powerful offline & online music player with 31-band equalizer, audio visualizer, lyrics, and custom playlists.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
